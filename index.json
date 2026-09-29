@@ -1,0 +1,19 @@
+{
+  "spec": 1,
+  "name": "Metamorphous",
+  "previewText": "Metamorphous",
+  "main": {
+    "ABCGintoNord-ExtraBold": "https://raw.githubusercontent.com/rayhan0706/Metamorphous/refs/heads/main/metamorphous/Metamorphous-Regular.ttf",
+    "ggsans-Bold": "https://raw.githubusercontent.com/rayhan0706/Metamorphous/refs/heads/main/metamorphous/Metamorphous-Regular.ttf",
+    "ggsans-ExtraBold": "https://raw.githubusercontent.com/rayhan0706/Metamorphous/refs/heads/main/metamorphous/Metamorphous-Regular.ttf",
+    "ggsans-Medium": "https://raw.githubusercontent.com/rayhan0706/Metamorphous/refs/heads/main/metamorphous/Metamorphous-Regular.ttf",
+    "ggsans-Normal": "https://raw.githubusercontent.com/rayhan0706/Metamorphous/refs/heads/main/metamorphous/Metamorphous-Regular.ttf",
+    "ggsans-Semibold": "https://raw.githubusercontent.com/rayhan0706/Metamorphous/refs/heads/main/metamorphous/Metamorphous-Regular.ttf",
+    "NotoSans-Bold": "https://raw.githubusercontent.com/rayhan0706/Metamorphous/refs/heads/main/metamorphous/Metamorphous-Regular.ttf",
+    "NotoSans-ExtraBold": "https://raw.githubusercontent.com/rayhan0706/Metamorphous/refs/heads/main/metamorphous/Metamorphous-Regular.ttf",
+    "NotoSans-Medium": "https://raw.githubusercontent.com/rayhan0706/Metamorphous/refs/heads/main/metamorphous/Metamorphous-Regular.ttf",
+    "NotoSans-Normal": "https://raw.githubusercontent.com/rayhan0706/Metamorphous/refs/heads/main/metamorphous/Metamorphous-Regular.ttf",
+    "NotoSans-Semibold": "https://raw.githubusercontent.com/rayhan0706/Metamorphous/refs/heads/main/metamorphous/Metamorphous-Regular.ttf",
+    "ggmono-Normal": "https://raw.githubusercontent.com/rayhan0706/Metamorphous/refs/heads/main/metamorphous/Metamorphous-Regular.ttf"
+  }
+}
